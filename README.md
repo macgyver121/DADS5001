@@ -1,26 +1,37 @@
-# DADS5001
-DADS5001
+# DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming
+1.Intro to Github & Data Sources (1 week)
+  - Twitter
+  - Youtube comment
+  - Web scraping
+  - Kaggle
+  - Uc irvine
+  - Data gov (Thai)
+  - Etc.
 
-Outline
+2.Data cleansing (tools) (1 weeks)
+- Openrefine
 
-1.1 Introduction to Github & Colab
+3.Data manipulation & visualization (8 weeks)
 
-1.2 Data Sources
+4.Streamlit (2 weeks)
 
-1.2.1 Youtube
+5.Tableau (2 weeks)
 
-1.2.2 Twitter
+6.Final project presentation (1 week)
 
-1.2.3 Web scraping
+7.Midterm (50%), Final project (50%)
 
-1.2.4 Kaggle
+References
 
-1.2.5 UCI dataset
-
-1.2.6 Data gov (Thai)
-
-
-Colab
-https://github.com/ekaratnida/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/blob/main/01_Data_Sources/week1.ipynb
-
-Install openrefine https://openrefine.org/
+0. OpenRefine: https://openrefine.org/
+1. Numpy https://numpy.org/doc/stable/user/quickstart.html
+2. Pandas
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+https://pandastutor.com/
+3. MatPlotLib https://matplotlib.org/stable/tutorials/index.html
+4. c3 https://c3js.org/
+5. Streamlit https://github.com/streamlit/streamlit
+  https://docs.streamlit.io/library/get-started/create-an-app
+Miscellaneous
+https://sysadmin.psu.ac.th/2018/09/17/open-thai-csv-excel-correctly/
+https://scipy-lectures.org/packages/statistics/index.html
