@@ -16,6 +16,8 @@
 6. Final project presentation (1 week)
 7. Midterm (50%), Final project (50%)
 
+https://github.com/ekaratnida/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming
+
 # References
 ### 0. OpenRefine: https://openrefine.org/
 ### 1. Numpy https://numpy.org/doc/stable/user/quickstart.html
