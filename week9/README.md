@@ -11,3 +11,7 @@
 4. Lab plotly: https://colab.research.google.com/drive/1u9UtBFgnJKxroV3h7XJw7JxbPaGuHGlL?authuser=1#scrollTo=Vc6lXCuXfMJF
 5. Exercise: https://www.kaggle.com/datasets/starbucks/store-locations
 6. Note: https://github.com/chrismeller/
+
+## Hoemwork before next class
+- https://github.com/pvalentinez/streamlit_kmean
+- https://www.facebook.com/pok.pok.330467/videos/2951253655201242
