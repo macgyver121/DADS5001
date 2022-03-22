@@ -10,7 +10,7 @@
 
 4. Lab plotly: https://colab.research.google.com/drive/1u9UtBFgnJKxroV3h7XJw7JxbPaGuHGlL?authuser=1#scrollTo=Vc6lXCuXfMJF
 5. Exercise: https://www.kaggle.com/datasets/starbucks/store-locations
-6. Note: https://github.com/chrismeller/
+6. Note: https://github.com/chrismeller/ เป็นคนทำ data starbuck
 
 extra https://www.youtube.com/results?search_query=Solidity+101+(Part+1%2F3)
 
