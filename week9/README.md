@@ -13,7 +13,3 @@
 6. Note: https://github.com/chrismeller/ เป็นคนทำ data starbuck
 
 extra https://www.youtube.com/results?search_query=Solidity+101+(Part+1%2F3)
-
-## Hoemwork before next class
-- https://github.com/pvalentinez/streamlit_kmean
-- https://www.facebook.com/pok.pok.330467/videos/2951253655201242
