@@ -3,6 +3,8 @@
 2. Graph (sec2)
 3. Map (sec3)
 
+https://dash-bootstrap-components.opensource.faculty.ai/docs/components/layout/
+
 ## Link to download power bi
 https://www.microsoft.com/th-th/download/details.aspx?id=58494
 
