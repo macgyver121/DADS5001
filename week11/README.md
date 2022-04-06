@@ -5,6 +5,10 @@
 
 https://dash-bootstrap-components.opensource.faculty.ai/docs/components/layout/
 
+https://plotly.com/python/choropleth-maps/
+
+https://plotly.github.io/plotly.py-docs/generated/plotly.express.choropleth.html
+
 ## Link to download power bi
 https://www.microsoft.com/th-th/download/details.aspx?id=58494
 
