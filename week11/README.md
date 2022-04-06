@@ -9,6 +9,8 @@ https://plotly.com/python/choropleth-maps/
 
 https://plotly.github.io/plotly.py-docs/generated/plotly.express.choropleth.html
 
+https://chart-studio.plotly.com/~empet/15238/tips-to-extract-data-from-a-geojson-di/#/
+
 ## Link to download power bi
 https://www.microsoft.com/th-th/download/details.aspx?id=58494
 
