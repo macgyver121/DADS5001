@@ -13,5 +13,5 @@ https://daxstudio.org/tutorials/writing-dax-queries/
 
 
 
-Date API for python
-- https://facebook.github.io/prophet/docs/quick_start.html
+# Date API for python
+https://facebook.github.io/prophet/docs/quick_start.html
