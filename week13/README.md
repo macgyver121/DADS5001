@@ -1,5 +1,7 @@
 https://docs.microsoft.com/en-us/dax/distinctcount-function-dax
 
+https://docs.microsoft.com/en-us/dax/dax-queries
+
 https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/
 
 
