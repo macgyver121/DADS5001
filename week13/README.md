@@ -1,8 +1,16 @@
+# DAX in Power BI
+
 https://docs.microsoft.com/en-us/dax/distinctcount-function-dax
+
+https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/
+
+# DAX queries
 
 https://docs.microsoft.com/en-us/dax/dax-queries
 
-https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/
+https://daxstudio.org/tutorials/writing-dax-queries/
+
+
 
 
 Date API for python
