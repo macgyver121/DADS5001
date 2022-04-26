@@ -8,7 +8,7 @@ https://www.tableau.com/learn/tutorials/on-demand/getting-started?playlist=36502
 ## Tabpy example (Call python script for clustering algorithm processing)
 https://tableau.github.io/TabPy/docs/server-install.html
 
-> Install tabpy
+Install tabpy
 > pip install tabpy
 
 ### Run
