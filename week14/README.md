@@ -6,6 +6,8 @@ Student license: https://www.tableau.com/academic/students
 https://www.tableau.com/learn/tutorials/on-demand/getting-started?playlist=365020
 
 ## Tabpy example (Call python script for clustering algorithm processing)
+https://tableau.github.io/TabPy/docs/server-install.html
+
 > Install tabpy
 > pip install tabpy
 
